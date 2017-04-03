@@ -1,10 +1,8 @@
-// GCF.cpp : Greatest Common Factor (using the Euclidian method
+// GCF.cpp : Greatest Common Factor (using the Euclidian method)
 //
 
 #include "stdafx.h"
 
-
-#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
